@@ -1,0 +1,10 @@
+newmtl blinn1SG
+illum 4
+Kd 0.784314 0.784314 0.784314
+Ka 0.00 0.00 0.00
+Ks 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+map_Kd libro.jpg
+bump -bm 0.2 librobump.jpg
+map_Ks libroEspecular.jpg

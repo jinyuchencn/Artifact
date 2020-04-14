@@ -1,0 +1,13 @@
+newmtl learnmtl
+
+Ka 0.00 0.00 0.00
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+map_Kd images.jpg
+bump images.jpg -bm 0.2
+map_Ks images.jpg
